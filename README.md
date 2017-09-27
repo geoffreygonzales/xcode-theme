@@ -1,7 +1,7 @@
 # xcode-themes
 
 This is a Repository for my xcode theme Moonlight
-<p align="center">
+<p align="left">
   <img src="https://image.ibb.co/bXw24Q/Screen_Shot_2017_09_27_at_10_46_29_AM.png" width="500"/>
 </p>
 
