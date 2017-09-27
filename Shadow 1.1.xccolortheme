@@ -5,31 +5,33 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.714445 0.894668 0.829745 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>AvenirNext-Regular - 15.0</string>
+	<string>AvenirNext-Regular - 12.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.714772 0.897281 0.77609 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>AvenirNext-UltraLight - 15.0</string>
+	<string>AvenirNext-Regular - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.624064 0.822653 0.871784 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>AvenirNext-Regular - 15.0</string>
+	<string>AvenirNext-Regular - 12.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.714772 0.897281 0.77609 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>AvenirNext-UltraLight - 15.0</string>
+	<string>AvenirNext-Regular - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.714445 0.894668 0.829745 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>AvenirNext-Regular - 15.0</string>
+	<string>AvenirNext-Regular - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.29986 0.303683 0.303563 1</string>
+	<string>0.198541 0.201977 0.201885 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0.259603 0.259603 0.259603 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.424674 0.424662 0.424669 1</string>
+	<string>0.475007 0.422665 0.591373 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
+	<key>DVTLineSpacing</key>
+	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.96 0.96 0.96 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -67,114 +69,114 @@
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.AppleSystemUIFontBold - 17.0</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.207176 0.211741 0.211646 1</string>
+	<string>0.198063 0.196962 0.208884 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.208527 0.212007 0.211911 1</string>
+	<string>0.228858 0.232422 0.232321 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.99956 0.999994 0.999683 1</string>
+	<string>1 0.824639 0.868899 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.27836 0.278351 0.278356 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.419807 0.424761 0.42466 1</string>
+	<string>0.799025 0.709778 1 0.553773</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>0.921868 0.856993 0.765257 1</string>
+		<string>0.94989 0.838023 0.676378 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.769051 0.878462 0.918929 1</string>
+		<string>0.6404 0.843462 0.893754 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.769935 0.925555 0.808755 1</string>
+		<string>0.528061 0.983584 0.689041 0.363087</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.769935 0.925555 0.808755 1</string>
+		<string>0.528061 0.983584 0.689041 0.363087</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.769935 0.925555 0.808755 1</string>
+		<string>0.528061 0.983584 0.689041 0.363087</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.921868 0.856993 0.765257 1</string>
+		<string>0.993185 0.809369 0.770528 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.834231 0.75909 0.921096 1</string>
+		<string>0.748878 0.691849 0.95888 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.769051 0.878462 0.918929 1</string>
+		<string>0.456291 0.765316 0.891509 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.834231 0.75909 0.921096 1</string>
+		<string>0.673893 0.603082 0.891587 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.769051 0.878462 0.918929 1</string>
+		<string>0.456291 0.765316 0.891509 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.834231 0.75909 0.921096 1</string>
+		<string>0.673893 0.603082 0.891587 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.921868 0.856993 0.765257 1</string>
+		<string>0.777905 0.510047 0.234932 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.921868 0.856993 0.765257 1</string>
+		<string>0.777905 0.510047 0.234932 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.917015 0.857118 0.765313 1</string>
+		<string>0.884874 0.744046 0.733594 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.834231 0.75909 0.921096 1</string>
+		<string>0.748878 0.691849 0.95888 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.769051 0.878462 0.918929 1</string>
+		<string>0.62528 0.823259 0.872288 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.834231 0.75909 0.921096 1</string>
+		<string>0.748878 0.691849 0.95888 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.915835 0.756859 0.920311 1</string>
+		<string>1 0.660827 0.888981 1</string>
 		<key>xcode.syntax.number</key>
-		<string>0.769051 0.878462 0.918929 1</string>
+		<string>0.6404 0.843462 0.893754 1</string>
 		<key>xcode.syntax.plain</key>
 		<string>0.952644 1 0.992189 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.917015 0.857118 0.765313 1</string>
+		<string>0.946868 0.69232 0.676222 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.917015 0.857118 0.765313 1</string>
+		<string>1 0.768077 0.686713 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.769051 0.878462 0.918929 1</string>
+		<string>0.6404 0.843462 0.893754 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.character</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.number</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.string</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 		<key>xcode.syntax.url</key>
-		<string>AvenirNext-Regular - 18.0</string>
+		<string>AvenirNext-Medium - 15.0</string>
 	</dict>
 </dict>
 </plist>
