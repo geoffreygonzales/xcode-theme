@@ -10,6 +10,13 @@ How to install new X-Code themes :
 
 https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/
 
+2) 
+In fonts and colors, duplicate a theme to force xcode to create a folder for themes, but pressing the + on the lower left 
+<p align="left">
+  <img src="https://image.ibb.co/d9carG/Screen_Shot_2017_09_28_at_6_20_36_PM.png"/>
+</p>
+
+
 
 2) Drag the theme into the fontsAndThemes folder. 
 
